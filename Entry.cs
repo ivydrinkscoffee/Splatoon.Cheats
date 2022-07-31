@@ -6,7 +6,7 @@
 
         private string ENTRY_HEADER = "[Entry]";
         private string DESCRPTION_PREFIX = "description=";
-        private string ADDRESS_PREFIX = "address";
+        private string ADDRESS_PREFIX = "address=";
         private string TYPE_PREFIX = "type=";
         private string VALUE_PREFIX = "value=";
 
